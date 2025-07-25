@@ -1,8 +1,8 @@
 # Employee Management System
 
 ## UI/UX
-
-![alt text](C:\Users\HP\OneDrive\Desktop\My-Projects\JS-Project\EmployeeManagement\asests\image.png)
+<br>
+<img src="./asests/image.png">
 
 ## Overview
 
