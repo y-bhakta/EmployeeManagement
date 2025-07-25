@@ -1,5 +1,9 @@
 # Employee Management System
 
+## UI/UX
+
+![alt text](C:\Users\HP\OneDrive\Desktop\My-Projects\JS-Project\EmployeeManagement\asests\image.png)
+
 ## Overview
 
 The **Employee Management System** is a simple web application built using HTML, CSS, and JavaScript. It allows users to add, view, edit, delete, and search employee records. The interface is styled with Bootstrap and custom CSS for a modern look.
@@ -86,4 +90,6 @@ asests/
 
 This project is for educational purposes.
 
----
+## Live Demo
+
+https://employee-management-xi-virid.vercel.app/
